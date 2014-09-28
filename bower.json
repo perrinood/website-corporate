@@ -11,7 +11,8 @@
     "angular-route": "1.2.20",
     "angular-bootstrap": "~0.11.0",
     "angular-http-auth": "*",
-    "angular-animate": "~1.2.20"
+    "angular-animate": "~1.2.20",
+    "font-awesome": "~4.2.0"
   },
   "devDependencies": {
     "angular-mocks": "1.2.20",
